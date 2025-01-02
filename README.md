@@ -1,7 +1,7 @@
 ## Встановлення
 1. **Клонувати репозиторій:**
    ```bash
-   git clone https://github.com/santar4/ASGI_https
+   git clone https://github.com/santar4/Miniproekt-1
    ```
 
 ## Запуск проекту
